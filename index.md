@@ -1,6 +1,9 @@
 ---
-title: Projektbeschreibung
 layout: home
+title: Projektbeschreibung
+nav_order: 1
+description: ""
+permalink: /
 ---
 
 Hier ensteht im Sommersemester 2024, gefördert durch das Projekt "Gute Lehridee" durch den [VP Studium, Lehre und Digitalisierung], eine Hilfseite für den Einsatz von [jamovi] für die Datenanalyse im [B.Sc.-Studiengang Wirtschaftspsychologie an der Hochschule Bonn-Rhein-Sieg].
