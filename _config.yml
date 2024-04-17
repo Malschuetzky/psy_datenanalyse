@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Datenanlyse mit jamovi für Psychologen
+description: Hilfseite für Nutzung von jamovi für typische Datenanalsen im B.Sc.-Studiengang Wirtschaftspsychologie an der H-BRS
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://Malschuetzky.github.io/psy_datenanalyse
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/Malschuetzky/psy_datenanalyse
