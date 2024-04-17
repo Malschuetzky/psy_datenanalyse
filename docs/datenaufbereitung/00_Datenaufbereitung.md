@@ -9,7 +9,7 @@ permalink: /docs/datenaufbereitung
 # Datenaufbereitung
 
 * Datensatz einlesen
-* Datensatz aufbereiten
+* Variablenansicht pflegen
 * Fehlende Werte (Identifizieren, Ausschließen, Substituieren)
 * Umpolen/Umcodieren von Items
 * Berechnen neuer Items/Skalenaggregation
