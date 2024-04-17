@@ -1,8 +1,8 @@
 ---
 title: Datensatz einlesen
 layout: default
-parent: datenaufbereitung
-has_children: false
+parent: Datenaufbereitung
+nav_order: 1
 ---
 
 Excel oder SAV-Datei
