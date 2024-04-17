@@ -8,9 +8,9 @@ permalink: /docs/datenaufbereitung
 
 # Datenaufbereitung
 
-•	Datensatz einlesen
-•	Datensatz aufbereiten
-•	Fehlende Werte (Identifizieren, Ausschließen, Substituieren)
-•	Umpolen/Umcodieren von Items
-•	Berechnen neuer Items/Skalenaggregation
-•	Filter
+* Datensatz einlesen
+* Datensatz aufbereiten
+* Fehlende Werte (Identifizieren, Ausschließen, Substituieren)
+* Umpolen/Umcodieren von Items
+* Berechnen neuer Items/Skalenaggregation
+* Filter
