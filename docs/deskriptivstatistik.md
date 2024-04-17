@@ -8,8 +8,8 @@ permalink: /docs/deskriptivstatistik
 
 # Deskriptivstatistik
 
-*	Zentrale Lagemaße
-*	Streuungsmaße
-*	Häufigkeitstabellen
-*	Plots (Raincloud, Dichte, Violin, Scatter, Histogramm, Box-Plot, Q-Q/P-P)
+* Zentrale Lagemaße
+* Streuungsmaße
+* Häufigkeitstabellen
+* Plots (Raincloud, Dichte, Violin, Scatter, Histogramm, Box-Plot, Q-Q/P-P)
 
