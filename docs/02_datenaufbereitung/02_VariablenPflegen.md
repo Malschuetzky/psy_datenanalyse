@@ -4,7 +4,6 @@ title: Variablenansicht pflegen
 nav_order: 2
 has_children: false
 parent: Datenaufbereitung
-permalink: /docs/02_VariablenPflegen
 ---
 
 ...

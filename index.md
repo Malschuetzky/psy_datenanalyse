@@ -8,6 +8,8 @@ permalink: /
 
 Hier ensteht im Sommersemester 2024, gefördert durch das Projekt "Gute Lehridee" durch den [VP Studium, Lehre und Digitalisierung], eine Hilfseite für den Einsatz von [jamovi] für die Datenanalyse im [B.Sc.-Studiengang Wirtschaftspsychologie an der Hochschule Bonn-Rhein-Sieg].
 
+Die Seite befindet sich noch im Aufbau.
+
 Projektdurchführung: [Prof. Dr. Christine Syrek], [Michael Malschützky] & Lisa Jaudszims
 
 [Prof. Dr. Christine Syrek]: mailto:christine.syrek@h-brs.de
