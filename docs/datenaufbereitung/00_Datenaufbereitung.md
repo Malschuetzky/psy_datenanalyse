@@ -3,7 +3,9 @@ layout: default
 title: Datenaufbereitung
 nav_order: 2
 has_children: true
-permalink: /docs/datenaufbereitung
+
+has_toc: true
+permalink: /docs/00_Datenaufbereitung
 ---
 
 # Datenaufbereitung

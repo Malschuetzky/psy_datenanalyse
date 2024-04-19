@@ -3,7 +3,7 @@ layout: default
 title: Deskriptivstatistik
 nav_order: 3
 has_children: false
-permalink: /docs/deskriptivstatistik
+permalink: /docs/Deskriptivstatistik
 ---
 
 # Deskriptivstatistik
