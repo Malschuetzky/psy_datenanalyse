@@ -2,7 +2,7 @@
 layout: default
 title: Korrelation
 nav_order: 2
-has_children: true
+has_children: false
 
 parent: Zusammenhangshypothesen
 has_toc: true
