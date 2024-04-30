@@ -1,11 +1,11 @@
 ---
 layout: default
-title: draft_child
+title: Reliabilität
 nav_order: 1
 has_children: true
 
-parent: draft_parent
-has_toc: false
+parent: Skalenanalyse
+has_toc: true
 ---
 
 Erste Unterebene

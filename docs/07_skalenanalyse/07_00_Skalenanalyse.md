@@ -1,7 +1,7 @@
 ---
 layout: default
-title: draft_parent
-nav_order: 4
+title: Skalenanalyse
+nav_order: 7
 has_children: true
 
 
