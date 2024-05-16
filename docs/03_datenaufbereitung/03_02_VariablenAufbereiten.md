@@ -84,7 +84,9 @@ Um eine Variable umzukodieren wird die neu angelegte Transformation im Dropdown 
 Die Funktion "Berechnen" wird zur Berechnung von neuen Items genutzt. Es können zum Beispiel Mittelwerte (MEAN) oder Summen (SUM) gebildet werden. Über den **f<sub>x</sub>**-Knopf kann eine Liste aller verfügbarer Elemente für die Formel angezeigt werden, aus der durch Doppelklicken Elemente eingefügt werden können. 
 
 ![Fehlende Werte eintragen](./pics/03_02_17.png)
+
 {: .wichtig } Fehlt in einer der eingerechneten Variablen ein Wert, gibt Jamovi in der neu berechneten Variablen keinen Wert aus. Um dieses Problem zu lösen, muss `ignore_missing=1` in die Formel eingefügt werden.
+
 ![Fehlende Werte eintragen](./pics/03_02_18.png)
 
 ## Nutzung von Filtern
