@@ -85,7 +85,8 @@ Die Funktion "Berechnen" wird zur Berechnung von neuen Items genutzt. Es können
 
 ![Fehlende Werte eintragen](./pics/03_02_17.png)
 
-{: .wichtig } Fehlt in einer der eingerechneten Variablen ein Wert, gibt Jamovi in der neu berechneten Variablen keinen Wert aus. Um dieses Problem zu lösen, muss `ignore_missing=1` in die Formel eingefügt werden.
+{: .wichtig } 
+> Fehlt in einer der eingerechneten Variablen ein Wert, gibt Jamovi in der neu berechneten Variablen keinen Wert aus. Um dieses Problem zu lösen, muss `ignore_missing=1` in die Formel eingefügt werden.
 
 ![Fehlende Werte eintragen](./pics/03_02_18.png)
 
