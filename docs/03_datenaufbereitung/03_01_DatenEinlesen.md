@@ -15,10 +15,11 @@ Dateien, die lokal auf dem Rechner gespeichert sind, können über das Menü an 
 ![Datei einlesen](./pics/03_01_02.png)
 ![Datei einlesen](./pics/03_01_03.png)
 
+{: .info }
+> Unterschied zwischen .xlsx- und .sav-Dateien
 
-## Unterschied zwischen .xlsx- und .sav-Dateien
-Bei .sav-Dateien werden die Bezeichnungen der Faktorstufen und das Skalenniveau aus der Datei übernommen, während man das Skalenniveau bei .xlsx-Dateien händisch einstellen muss.<br>
-Es sollte nach Import geprüft werden, ob Skalenniveau und Faktorstufen korrekt sind.
+> Bei .sav-Dateien werden die Bezeichnungen der Faktorstufen und das Skalenniveau aus der Datei übernommen, während man das Skalenniveau bei .xlsx-Dateien händisch einstellen muss.<br>
+> Es sollte nach Import geprüft werden, ob Skalenniveau und Faktorstufen korrekt sind.
 
 # Öffnen eines Übungsdatensatzes
 Wenn das Zusatzmodul **lsj-data** installiert wurde, enthält Jamovi eine Kollektion an Übungsdatensätzen. <br>

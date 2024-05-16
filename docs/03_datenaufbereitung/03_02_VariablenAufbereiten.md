@@ -10,6 +10,7 @@ parent: Datenaufbereitung
 
 ## Name, Beschreibung, Skalenniveau und Faktorstufen verändern
 
+{: .info }
 >Die folgenden Aktionen können entweder im Tab "Variablen" oder in den Menüpunkten "Daten" oder "Analysen" durchgeführt werden. Die Funktionsweise unterscheidet sich nicht.
 
 Über einen Doppelklick auf den Variablennamen öffnet sich eine Ansicht, in der die Variable bearbeitet werden kann. Hier können Name, Beschreibung, Skalenniveau und Faktorstufen eingestellt und verändert werden.
@@ -23,6 +24,7 @@ Bei den Skalenniveaus "Nominal" und "Ordinal" werden die in den Daten vorkommend
 
 Wenn die hinzugefügte Faktorstufe ein Zahlenwert ist, kann man anschließend die Faktorstufe per Doppelklick auf den neuen Eintrag benennen.
 
+{: .info }
 >Setzt man den Haken bei "Ungenutzte Faktorstufen in Analyse einschließen", werden in Auswertungen auch Faktorstufen, die nicht im Datensatz vorkommen, mit einbezogen. (Beispielsweise, wenn auf einer Likert-Skala der Wert 3 kein einziges Mal als Antwort ausgewählt wurde.)
 
 ## Fehlende Werte identifizieren und ausschließen
@@ -38,6 +40,7 @@ Dies tut man im Feld "Fehlende Werte" über "Fehlenden Wert hinzufügen". Mithil
 ![Fehlende Werte eintragen](./pics/03_02_06.png)
 ![Fehlende Werte eintragen](./pics/03_02_07.png)
 
+{: .info }
 > Die Bedeutung der Operatoren wird im Dropdown erklärt, wenn man mit der Maus darüber fährt. **==** entspricht dem Eintragen der Zahl. Beispiel: `wenn $source == -99` definiert -99 als fehlenden Wert.
 
 Besonders praktisch: Durch Markieren mehrerer Variablen können Fehlende Werte für mehrere Variablen gleichzeitig definiert werden.
@@ -52,6 +55,7 @@ Bei der Berechnung einer neuen Variable wird eine neue Variable erstellt. Hierf�
 ![Fehlende Werte eintragen](./pics/03_02_09.png)
 ![Fehlende Werte eintragen](./pics/03_02_10.png)
 
+{: .info }
 > Um ein negativ gepoltes Item einer 5-stufigen Likert-Skala umzucodieren wird die Formel `6 - "Wert der Ursprungsvariable"` gebraucht. 
 > So wird von dem Wert 6 der Wert der Likert-Skala abgezogen, wodurch aus einer 5 eine 1 wird, aus einer 4 eine 2, usw. Es ist also nur eine einzige Aktion notwendig, um alle Werte zu verändern.
 
@@ -67,6 +71,7 @@ Es wird eine neue Transformation erstellt und mit einem Namen, einer Beschreibun
 Das "Variablensuffix" ist eine Buchstabenkombination (z.B. "\_u"), die bei Ausführung der Transformation an den Variablennamen angehängt wird.
 Die Umkodierungsbedingung ist die Formel zur Berechnung der neuen Variablen. Sie folgt dem gleichen Prinzip wie bei der Berechnung neuer Variablen.
 
+{: .info }
 > Um ein negativ gepoltes Item einer 5-stufigen Likert-Skala umzucodieren wird die Formel `6 - "Wert der Ursprungsvariable"` gebraucht. 
 > So wird von dem Wert 6 der Wert der Likert-Skala abgezogen, wodurch aus einer 5 eine 1 wird, aus einer 4 eine 2, usw. Es ist also nur eine einzige Aktion notwendig, um alle Werte zu verändern.
 
