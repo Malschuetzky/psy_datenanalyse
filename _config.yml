@@ -7,3 +7,10 @@ url: https://Malschuetzky.github.io/psy_datenanalyse
 aux_links: # remove if you don't want this link to appear on your pages
   GitHub-Repository: https://github.com/Malschuetzky/psy_datenanalyse
 aux_links_new_tab: true # Makes Aux links open in a new tab. Default is false
+
+callouts:
+  info:
+    color: blue
+  wichtig:
+    title: wichtig
+    color: red
