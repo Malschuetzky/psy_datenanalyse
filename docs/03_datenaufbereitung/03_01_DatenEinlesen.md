@@ -17,7 +17,7 @@ Dateien, die lokal auf dem Rechner gespeichert sind, können über das Menü an 
 
 {: .info }
 > Unterschied zwischen .xlsx- und .sav-Dateien
-
+>
 > Bei .sav-Dateien werden die Bezeichnungen der Faktorstufen und das Skalenniveau aus der Datei übernommen, während man das Skalenniveau bei .xlsx-Dateien händisch einstellen muss.<br>
 > Es sollte nach Import geprüft werden, ob Skalenniveau und Faktorstufen korrekt sind.
 

@@ -41,7 +41,7 @@ Dies tut man im Feld "Fehlende Werte" über "Fehlenden Wert hinzufügen". Mithil
 ![Fehlende Werte eintragen](./pics/03_02_07.png)
 
 {: .info }
-> Die Bedeutung der Operatoren wird im Dropdown erklärt, wenn man mit der Maus darüber fährt. **==** entspricht dem Eintragen der Zahl. Beispiel: `wenn $source == -99` definiert -99 als fehlenden Wert.
+> Die Bedeutung der Operatoren wird im Dropdown erklärt, wenn man mit der Maus darüber fährt. `==` entspricht dem Eintragen der Zahl. <br>Beispiel: `wenn $source == -99` definiert -99 als fehlenden Wert.
 
 Besonders praktisch: Durch Markieren mehrerer Variablen können Fehlende Werte für mehrere Variablen gleichzeitig definiert werden.
 
