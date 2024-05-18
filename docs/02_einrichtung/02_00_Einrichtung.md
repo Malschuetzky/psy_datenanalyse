@@ -7,7 +7,7 @@ has_children: true
 
 has_toc: true
 ---
-## Ersteinrichtung und Verwaltung von jamovi
+# Ersteinrichtung und Verwaltung von jamovi
 
 jamovi ist für die Betriebssysteme Windows (lokal und portable), macOS, Linux und ChromeOS verfügbar.
 
