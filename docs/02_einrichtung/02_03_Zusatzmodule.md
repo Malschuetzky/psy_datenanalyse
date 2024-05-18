@@ -27,3 +27,7 @@ Aus der Liste wählt man nun die gewünschten Zusatzmodule aus.
 ![Zusatzmodul lsj-data](./pics/02_03_02.png)
 ![Zusatzmodul surveymv](./pics/02_03_03.png)
 ![Zusatzmodul scatr](./pics/02_03_04.png)
+
+## Verwalten installierter Zusatzmodulen
+
+Über das Plus-Symbol können auch alle bereits installierten Zusatzmodule aktualisiert und bei Bedarf in der jamovi Menüleiste aus- oder eingeblendet werden.
