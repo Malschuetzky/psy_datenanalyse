@@ -7,10 +7,11 @@ parent: Datenaufbereitung
 ---
 
 # Variablenansicht aufbereiten
+{: .no_toc }
 
 <details open markdown="block">
   <summary>
-    Inhaltsverzeichnis
+    Inhalt
   </summary>
   {: .text-delta }
 1. TOC
