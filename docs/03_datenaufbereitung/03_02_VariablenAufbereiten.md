@@ -8,6 +8,15 @@ parent: Datenaufbereitung
 
 # Variablenansicht aufbereiten
 
+<details open markdown="block">
+  <summary>
+    Inhaltsverzeichnis
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Name, Beschreibung, Skalenniveau und Faktorstufen verändern
 
 {: .info }
