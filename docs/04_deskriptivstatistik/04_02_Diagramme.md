@@ -21,7 +21,7 @@ Unter dem Menüpunkt "Deskriptivstatistik" ist eine Auswahl verschiedener Plots/
 ## Raincloud-Plots
 
 {: .info }
->Anleitung zur Installation von Zusatzmodulen [hier](./docs/02_einrichtung/02_03_Zusatzmodule.html).
+>Anleitung zur Installation von Zusatzmodulen [hier](../02_einrichtung/02_03_Zusatzmodule.html).
 
 
 {: .wichtig }
