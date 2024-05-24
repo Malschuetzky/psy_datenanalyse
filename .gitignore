@@ -14,5 +14,4 @@ _site/
 .bundle/
 vendor/
 .phcode.json
-docs/02_einrichtung/pics/.DS_Store
-docs/03_datenaufbereitung/pics/.DS_Store
+.DS_Store
