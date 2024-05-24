@@ -31,7 +31,9 @@ Unter dem Menüpunkt "Deskriptivstatistik" ist eine Auswahl verschiedener Plots/
 ![surveyplots](./pics/04_02_03.png)
 
 ## Streudiagramme
-> *Für die Verdeutlichung wurde hier der Übungsdatensatz "Parenthood" genutzt.*
+
+{: .hinweis }
+> *Für die Beispiele wurde hier der Übungsdatensatz "Parenthood" genutzt.*
 
 Scatter-Plots/Streudiagramme können entweder mithilfe eines Zusatzmoduls erstellt werden, oder über die Korrelationsmatrix.
 

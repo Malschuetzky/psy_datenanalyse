@@ -14,3 +14,5 @@ callouts:
   wichtig:
     title: wichtig
     color: red
+  hinweis:
+    color: green

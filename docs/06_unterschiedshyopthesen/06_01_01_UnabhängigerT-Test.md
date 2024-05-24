@@ -8,4 +8,10 @@ parent: Zwei Faktoren
 
 ---
 
-Zweite Unterebene
+# t-Test für unabhängige Stichproben
+
+{: .hinweis }
+> *Für die Beispiele wurde der Übungsdatensatz "Harpo" genutzt.*
+
+![UnabhängigerTTest](./pics/06_01_01_01.png)
+![UnabhängigerTTest](./pics/06_01_01_02.png)
