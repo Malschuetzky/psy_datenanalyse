@@ -22,7 +22,7 @@ Dateien, die lokal auf dem Rechner gespeichert sind, können über das Menü an 
 > Es sollte nach Import geprüft werden, ob Skalenniveau und Faktorstufen korrekt sind.
 
 # Öffnen eines Übungsdatensatzes
-Wenn das Zusatzmodul **lsj-data** installiert wurde, enthält Jamovi eine Kollektion an Übungsdatensätzen. <br>
+Wenn das Zusatzmodul **lsj-data** installiert wurde, enthält jamovi eine Kollektion an Übungsdatensätzen. <br>
 Diese Übungsdatensätze können durch Klick auf "Datenbibliothek" aufgerufen werden.
 
 ![Datei einlesen](./pics/03_01_04.png)

@@ -75,7 +75,7 @@ Die Umkodierungsbedingung ist die Formel zur Berechnung der neuen Variablen. Sie
 > Um ein negativ gepoltes Item einer 5-stufigen Likert-Skala umzucodieren wird die Formel `6 - "Wert der Ursprungsvariable"` gebraucht. 
 > So wird von dem Wert 6 der Wert der Likert-Skala abgezogen, wodurch aus einer 5 eine 1 wird, aus einer 4 eine 2, usw. Es ist also nur eine einzige Aktion notwendig, um alle Werte zu verändern.
 
-Um eine Variable umzukodieren wird die neu angelegte Transformation im Dropdown ausgewählt. Jamovi legt dann automatisch eine korrekt benannte, umkodierte Variable an.
+Um eine Variable umzukodieren wird die neu angelegte Transformation im Dropdown ausgewählt. jamovi legt dann automatisch eine korrekt benannte, umkodierte Variable an.
 
 ![Fehlende Werte eintragen](./pics/03_02_14.png)
 
@@ -91,12 +91,12 @@ Die Funktion "Berechnen" wird zur Berechnung von neuen Items genutzt. Es können
 ![Fehlende Werte eintragen](./pics/03_02_17.png)
 
 {: .wichtig } 
-> Fehlt in einer der eingerechneten Variablen ein Wert, gibt Jamovi in der neu berechneten Variablen keinen Wert aus. Um dieses Problem zu lösen, muss `ignore_missing=1` in die Formel eingefügt werden.
+> Fehlt in einer der eingerechneten Variablen ein Wert, gibt jamovi in der neu berechneten Variablen keinen Wert aus. Um dieses Problem zu lösen, muss `ignore_missing=1` in die Formel eingefügt werden.
 
 ![Fehlende Werte eintragen](./pics/03_02_18.png)
 
 ## Nutzung von Filtern
 
-Über den Button "Filter" können Filter eingestellt werden. Die Bedingungen, welche Werte gefiltert werden, werden über eine Formel definiert, und ein Filter kann mehrere Bedingungen beinhalten. Jamovi zeigt in der/den ersten Spalte an, welche Fälle durch den Filter ausgeschlossen werden.
+Über den Button "Filter" können Filter eingestellt werden. Die Bedingungen, welche Werte gefiltert werden, werden über eine Formel definiert, und ein Filter kann mehrere Bedingungen beinhalten. jamovi zeigt in der/den ersten Spalte an, welche Fälle durch den Filter ausgeschlossen werden.
 
 ![Fehlende Werte eintragen](./pics/03_02_19.png)
