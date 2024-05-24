@@ -19,10 +19,10 @@ Unter dem Menüpunkt "Deskriptivstatistik" ist eine Auswahl verschiedener Plots/
 ![Diagramme](./pics/04_02_01.png)
 
 ## Raincloud-Plots
-{: .info }
->Anleitung zur Installation von Zusatzmodulen [hier](./docs/02_einrichtung/02_03_Zusatzmodule.md).
 
-Für Raincloud-Plots wird das Zusatzmodul *Surveyplots* benötigt.
+{: .info }
+>Anleitung zur Installation von Zusatzmodulen [hier](./docs/02_einrichtung/02_03_Zusatzmodule.html).
+
 
 {: .wichtig }
 >Surveyplots reagiert sensibel auf das Skalenniveau der Variable. Raincloud-Plots können nur aus Variablen mit dem Skalenniveau "Kontinuierlich" (Metrisch) erstellt werden.
