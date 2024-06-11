@@ -11,7 +11,7 @@ has_toc: true
 # Reliabilitätsanalyse
 
 {: .hinweis }
-> *Für die Beispiele wurde der Übungsdatensatz "Personality Questionnaire" genutzt.*
+> Für die Beispiele wurde der Übungsdatensatz "Personality Questionnaire" genutzt.
 
 Die Reliabilitätsanalyse findet sich im Menüpunkt "Faktor" unter den Skalenanalysen.
 

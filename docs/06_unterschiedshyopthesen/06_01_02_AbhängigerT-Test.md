@@ -11,7 +11,7 @@ parent: Zwei Faktoren
 # t-Test für gepaarte Stichproben
 
 {: .hinweis }
-> *Für die Beispiele wurde der Übungsdatensatz "Chico" genutzt.*
+> Für die Beispiele wurde der Übungsdatensatz "Chico" genutzt.
 
 ![AbhängigerTTest](./pics/06_01_02_01.png)
 ![AbhängigerTTest](./pics/06_01_02_02.png)

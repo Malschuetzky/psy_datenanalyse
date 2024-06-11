@@ -20,7 +20,7 @@ Unter dem Menüpunkt "Deskriptivstatistik" ist eine Auswahl verschiedener Plots/
 
 ## Raincloud-Plots
 
-{: .info }
+{: .hinweis }
 >Anleitung zur Installation von Zusatzmodulen [hier](../02_einrichtung/02_03_Zusatzmodule.html).
 
 
@@ -33,7 +33,7 @@ Unter dem Menüpunkt "Deskriptivstatistik" ist eine Auswahl verschiedener Plots/
 ## Streudiagramme
 
 {: .hinweis }
-> *Für die Beispiele wurde hier der Übungsdatensatz "Parenthood" genutzt.*
+> Für die Beispiele wurde hier der Übungsdatensatz "Parenthood" genutzt.
 
 Scatter-Plots/Streudiagramme können entweder mithilfe eines Zusatzmoduls erstellt werden, oder über die Korrelationsmatrix.
 

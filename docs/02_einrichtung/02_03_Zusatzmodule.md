@@ -12,7 +12,7 @@ has_toc: true
 jamovi bietet eine Bibliothek an Zusatzmodulen an, die ergänzende Funktionen zum Programm hinzufügen.<br>
 
 Im Zuge der Lehrveranstaltungen werden die folgenden Zusatzmodule genutzt:
-- **lsj-data - learning statistics with jamovi** – Enthält Trainingsdaten aus dem Buch ["learning statistics with jamovi"](https://www.learnstatswithjamovi.com/), anhand derer diese Anleitungen erstellt wurden
+- **lsj-data - learning statistics with jamovi** – Enthält Trainingsdaten aus dem Buch ["learning statistics with jamovi"](https://www.learnstatswithjamovi.com/), anhand derer einige dieser Anleitungen erstellt wurden
 - **surveymv - Survey Plots** - Survey Plots bietet weitere Möglichkeiten zur Erstellung von Diagrammen
 - **scatr** – Ermöglicht die Erstellung von Streudiagrammen und Pareto-Diagrammen
 - **Rj - Editor to run R code inside jamovi** - Für die direkte Nutzung von R in jamovi
