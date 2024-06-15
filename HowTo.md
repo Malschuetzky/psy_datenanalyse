@@ -28,6 +28,8 @@ Es sind folgende Callouts definiert:
 > Hinweis: Grünes Callout – Wird genutzt für Hinweise, wie z.B. welcher Übungsdatensatz für die jeweilige Anleitung genutzt wurde.
 ```
 
+Mehr zu Callouts findet man in der [Dokumentation von JustTheDocs](https://just-the-docs.com/docs/configuration/#callouts).
+
 ## Inhaltsverzeichnis auf einer Unterseite
 Bei Seiten mit besonders vielen Unterpunkten kann ein Inhaltsverzeichnis eingefügt werden, das am Seitenanfang steht und einklappbar ist.
 
