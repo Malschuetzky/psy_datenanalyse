@@ -16,7 +16,9 @@ Unter dem Menüpunkt "Deskriptivstatistik" ist eine Auswahl verschiedener Plots/
 - Box-Plot
 - Violin-Plot
 
-![Diagramme](./pics/04_02_01.png)
+<a href="./pics/04_02_01.png" target="_blank">
+  <img src="./pics/04_02_01.png"/>
+</a>
 
 ## Raincloud-Plots
 
@@ -27,8 +29,12 @@ Unter dem Menüpunkt "Deskriptivstatistik" ist eine Auswahl verschiedener Plots/
 {: .wichtig }
 >Surveyplots reagiert sensibel auf das Skalenniveau der Variable. Raincloud-Plots können nur aus Variablen mit dem Skalenniveau "Kontinuierlich" (Metrisch) erstellt werden.
 
-![surveyplots](./pics/04_02_02.png)
-![surveyplots](./pics/04_02_03.png)
+<a href="./pics/04_02_02.png" target="_blank">
+  <img src="./pics/04_02_02.png"/>
+</a>
+<a href="./pics/04_02_03.png" target="_blank">
+  <img src="./pics/04_02_03.png"/>
+</a>
 
 ## Streudiagramme
 
@@ -40,11 +46,19 @@ Scatter-Plots/Streudiagramme können entweder mithilfe eines Zusatzmoduls erstel
 ### Zusatzmodul
 Mithilfe des Zusatzmoduls *scatr* können einfach Streudiagramme erstellt werden.
 
-![surveyplots](./pics/04_02_04.png)
-![surveyplots](./pics/04_02_05.png)
+<a href="./pics/04_02_04.png" target="_blank">
+  <img src="./pics/04_02_04.png"/>
+</a>
+<a href="./pics/04_02_05.png" target="_blank">
+  <img src="./pics/04_02_05.png"/>
+</a>
 
 ### Korrelationsmatrix
 Auch über die Korrelationsmatrix kann ein Scatterplot erstellt werden.
 
-![korrelationsmatrix](./pics/04_02_06.png)
-![korrelationsmatrix](./pics/04_02_07.png)
+<a href="./pics/04_02_06.png" target="_blank">
+  <img src="./pics/04_02_06.png"/>
+</a>
+<a href="./pics/04_02_07.png" target="_blank">
+  <img src="./pics/04_02_07.png"/>
+</a>

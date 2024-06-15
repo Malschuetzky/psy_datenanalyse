@@ -13,5 +13,9 @@ parent: Zwei Faktoren
 {: .hinweis }
 > Für die Beispiele wurde der Übungsdatensatz "Zeppo" genutzt.
 
-![Einstichprobenttest](./pics/06_01_03_01.png)
-![Einstichprobenttest](./pics/06_01_03_02.png)
+<a href="./pics/06_01_03_01.png" target="_blank">
+  <img src="./pics/06_01_03_01.png"/>
+</a>
+<a href="./pics/06_01_03_02.png" target="_blank">
+  <img src="./pics/06_01_03_02.png"/>
+</a>
