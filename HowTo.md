@@ -17,6 +17,7 @@ Bilder werden per HTML-Code eingebunden, damit sie durch Klick in einem neuen Ta
 Zur farbigen Hervorhebung von wichtigen Informationen können sogenannte Callouts genutzt werden.
 Es sind folgende Callouts definiert:
 
+```
 {: .info }
 > Info: Blaues Callout – Wird genutzt um weitergehende Infos darzustellen.
 
@@ -25,12 +26,6 @@ Es sind folgende Callouts definiert:
 
 {: .hinweis }
 > Hinweis: Grünes Callout – Wird genutzt für Hinweise, wie z.B. welcher Übungsdatensatz für die jeweilige Anleitung genutzt wurde.
-
-Callouts werden wie folgt eingebunden:
-```
-{: .hinweis } (oder .info / .wichtig)
-> Hier steht der Inhalt des Callouts.
-
 ```
 
 ## Inhaltsverzeichnis auf einer Unterseite
