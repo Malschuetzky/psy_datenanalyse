@@ -12,7 +12,7 @@ parent: Regression
 Die hierarchische Regression wird genutzt, um zu prüfen, ob durch Hinzunahme weiterer Prädiktoren zusätzliche Anteile an erklärter Varianz aufgeklärt werden.
 
 {: .hinweis }
-> Hinweis: Für die Beispiele wurde der Datensatz "Übungsdatensatz jamovi aggregiert" genutzt.
+> Für die Beispiele wurde der Datensatz "Übungsdatensatz jamovi aggregiert" genutzt.
 
 <a href="./pics/05_03_01_01.png" target="_blank">
   <img src="./pics/05_03_01_01.png"/>
