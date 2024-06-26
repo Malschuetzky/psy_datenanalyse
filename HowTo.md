@@ -45,3 +45,6 @@ Bei Seiten mit besonders vielen Unterpunkten kann ein Inhaltsverzeichnis eingef�
 {:toc}
 </details>
 ```
+
+## Zeilenumbrüche forcieren
+Zeilenumbrüche können mit `<br>` erzwungen werden.
