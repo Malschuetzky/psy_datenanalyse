@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zwei Faktoren
+title: Zwei Gruppen
 nav_order: 1
 has_children: true
 
